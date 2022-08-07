@@ -1,0 +1,53 @@
+h1{width: 100%;
+    background-color: orangered;
+    border: 1px solid black;
+
+
+border-radius: 10px;
+text-align: 10px;
+opacity: 0.5;
+
+
+
+
+}
+div {width: 150px;
+height: 150px;
+margin: out;
+border-radius: 50%;
+opacity: 0.5;
+transition: 0.5s;
+
+
+
+
+}
+
+#red{
+
+background-color: red;
+
+
+
+}
+
+#yellow{background-color: yellow;
+
+
+
+}
+
+
+
+#green{background-color: green;
+
+
+
+}
+
+
+div:hover{
+
+
+    opacity: 1;
+}
